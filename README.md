@@ -11,7 +11,8 @@ To sort using an array: `./shellsort -a inputfile.b outputfile.b`
 To sort using a linked list: `./shellsort -l inputfile.b outputfile.b`
 - - - -
 ### Specifications: ###
- - The program reads in at most INTMAX long integers from a binary file and outputs the sorted integers as long integers ina  binary file.
+ - The program reads in at most INTMAX long integers from a binary file and outputs the sorted integers as long integers in a binary file.
+ - The number of comparisons is the total amount of whenever the values of two nodes or array buckets are compared, indicies do not count.
  - If the input file is unable to be opened or is empty, it will be treated as a array of size 0 and an output file will still be created.
  - An invalid runtime arguement (i.e. not -a or -l) will result in no sorting being done.
 
