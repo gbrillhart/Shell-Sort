@@ -1,7 +1,7 @@
 # Shell-Sort #
 
 ### Program Info: ###
-Shell-Sort is an implementation of the Shell Sorting algorithm written by myself in C. The shellsorting can be done with an array of memory or with a linked list. The code reads in a file of size(long) integers, sorts the integers using an array or a linked list according to the runtime arguments, prints the number of comparisons, and stores the sorted list as a binary output file. Both methods of sorting follow standard Shell Sorting time complexity, with the worst case O(n^2), best case of O(n*log(n)) and average case complexity of O(n^1.25).
+Shell-Sort is an implementation of the Shell Sorting algorithm written by myself in C. The shell sorting can be done with an array of memory or with a linked list. The code reads in a file of size(long) integers, sorts the integers using an array or a linked list according to the runtime arguments, prints the number of comparisons, and stores the sorted list as a binary output file. Both methods of sorting follow standard Shell Sorting time complexity, with the worst case O(n^2), best case of O(n*log(n)) and average case complexity of O(n^1.25).
 - - - - 
 ### Usage: ###
 You will need the C compiler gcc and version C99 for the code. 
