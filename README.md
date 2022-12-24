@@ -19,9 +19,13 @@ To sort using a linked list: `./shellsort -l inputfile.b outputfile.b`
 - - - -
 ### Source Code Descriptions: ###
 **shellsort.c** : the main file responsible for overall code flow and calling respective functions.
+
 **shell_array.c** : source code responsible for loading, sorting, and writing the list of integers using an array.
+
 **shell_list.c** : source code responsible for loading, sorting, and writing the list of integers using a linked list.
+
 **shell_array.h** : header file for shell_array.c.
+
 **shell_list.h** : header file for shell_list.c.
 - - - -
 ### Test File Descriptions: ###
