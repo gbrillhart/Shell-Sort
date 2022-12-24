@@ -41,4 +41,4 @@ To sort using a linked list: `./shellsort -l inputfile.b outputfile.b`
  - 100Ks.b : contains 100,000 sorted long integers
  - 1Ms.b : contains 1,000,000 sorted long integers
 - - - -
-Note: This code was developed for ECE 36800 with Professor Koh at Purdue University.
+Note: This code was developed for ECE 36800 taught by Professor Koh at Purdue University.
